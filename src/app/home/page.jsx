@@ -1,6 +1,7 @@
 'use client'
 
-import useAxios from "@/Hooks/useAxios";
+
+import useAxios from "@/src/Hooks/useAxios";
 import React, { useEffect, useState } from "react";
 
 const HomePage = () => {
@@ -22,7 +23,7 @@ const HomePage = () => {
             {
                 products.map(product =>
                     <React.Fragment key={product._id}>
-                        <h1>{product.name}</h1>
+                        <h1 className="text-3xl ">{product.name}</h1>
                     </React.Fragment>
                 )
             }

@@ -1,4 +1,3 @@
-import logo from "@/public/next.svg"
 import Image from "next/image";
 
 const Logo = ({width='lg:w-[40px] xl:w-[67px]', height='lg:h-[40px] xl:h-[67px]', position=''}) => {
