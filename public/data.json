@@ -1,0 +1,662 @@
+[
+    {
+        "name": "Stylish Hoodie",
+        "image":[
+            "https://i.ibb.co.com/GWXxWNK/Stylish-Hoodie1.jpg",
+            "https://i.ibb.co.com/yhV4X3C/Stylish-Hoodie2.jpg",
+            "https://i.ibb.co.com/Xj0Jy9W/Stylish-Hoodie3.jpg",
+            "https://i.ibb.co.com/6t5DXr9/Stylish-Hoodie4.jpg"
+        ],
+        "brand": "Urban Wear",
+        "category": ["Hoodies", "Top", "Clothing"],
+        "stock": [
+            {
+                "red": {
+                    "XL": 2,
+                    "L": 5,
+                    "M": 7,
+                    "S": 3
+                },
+                "blue": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 10
+                }
+            }
+        ],
+        "price": 69.99,
+        "discountPrice": 64.99,
+        "ratting": 4.2,
+        "description": "A comfortable and stylish hoodie for casual wear, made from soft cotton fabric.",
+        "additionalInfo": "Perfect for everyday use.",
+        "ProductInfo": "Available in multiple colors, with reinforced stitching for durability."
+    },
+    {
+        "name": "Classic Denim Jacket",
+        "image":[
+            "https://i.ibb.co.com/xSSzPPV/Classic-Denim-Jacket1.jpg",
+            "https://i.ibb.co.com/z2pCcXz/Classic-Denim-Jacket2.jpg",
+            "https://i.ibb.co.com/qncRTGF/Classic-Denim-Jacket3.jpg",
+            "https://i.ibb.co.com/68kPP44/Classic-Denim-Jacket4.jpg"
+        ],
+        "brand": "DenimX",
+        "category": ["Jacket", "Clothing"],
+        "stock": [
+            {
+                "black": {
+                    "XL": 3,
+                    "L": 2,
+                    "M": 5,
+                    "S": 6
+                },
+                "blue": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 9
+                }
+            }
+        ],
+        "price": 89.99,
+        "discountPrice": 84.99,
+        "ratting": 4.7,
+        "description": "A classic denim jacket perfect for layering with any outfit. Made from high-quality denim.",
+        "additionalInfo": "Machine washable.",
+        "ProductInfo": "Comes in blue and black, with double-stitched seams and reinforced buttons."
+    },
+    {
+        "name": "Leather Boots",
+        "image":[
+            "https://i.ibb.co.com/BwWztYs/Leather-Boots1.jpg",
+            "https://i.ibb.co.com/n3v2hFs/Leather-Boots2.jpg",
+            "https://i.ibb.co.com/GFTQN40/Leather-Boots3.jpg",
+            "https://i.ibb.co.com/FW9k0yn/Leather-Boots4.jpg"
+        ],
+        "brand": "FootWear Pro",
+        "category": ["Accessories", "Sneakers"],
+        "stock": [
+            {
+                "brown": {
+                    "XL": 5,
+                    "L": 6,
+                    "M": 7,
+                    "S": 3
+                },
+                "black": {
+                    "XL": 4,
+                    "L": 4,
+                    "M": 5,
+                    "S": 8
+                }
+            }
+        ],
+        "price": 149.99,
+        "discountPrice": 139.99,
+        "ratting": 4.8,
+        "description": "Premium leather boots for style and comfort. Designed for both formal and casual wear.",
+        "additionalInfo": "Water-resistant.",
+        "ProductInfo": "Crafted from genuine leather with cushioned insoles for comfort."
+    },
+    {
+        "name": "Casual Cotton T-Shirt",
+        "image":[
+            "https://i.ibb.co.com/nzh0LsN/Casual-Cotton-T-Shirt1.jpg",
+            "https://i.ibb.co.com/QQLz6ns/Casual-Cotton-T-Shirt2.jpg",
+            "https://i.ibb.co.com/sCcsLr0/Casual-Cotton-T-Shirt3.jpg"
+        ],
+        "brand": "CottonWorld",
+        "category": ["T-shirt", "Top", "Clothing"],
+        "stock": [
+            {
+                "white": {
+                    "XL": 7,
+                    "L": 6,
+                    "M": 5,
+                    "S": 8
+                },
+                "grey": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 9
+                }
+            }
+        ],
+        "price": 24.99,
+        "discountPrice": 19.99,
+        "ratting": 4.3,
+        "description": "A soft cotton t-shirt for everyday wear. Breathable fabric to keep you comfortable.",
+        "additionalInfo": "100% organic cotton.",
+        "ProductInfo": "Available in white and grey, with a relaxed fit and durable stitching."
+    },
+    {
+        "name": "Slim Fit Jeans",
+        "image":[
+            "https://i.ibb.co.com/Pg3wmKJ/Slim-Fit-Jeans1.jpg",
+            "https://i.ibb.co.com/t2V5Ms2/Slim-Fit-Jeans2.jpg",
+            "https://i.ibb.co.com/nQGRMRX/Slim-Fit-Jeans3.jpg",
+            "https://i.ibb.co.com/pQTsgXG/Slim-Fit-Jeans4.jpg"
+        ],
+        "brand": "JeanStyle",
+        "category": ["Bottom", "Clothing"],
+        "stock": [
+            {
+                "blue": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 8,
+                    "S": 7
+                },
+                "black": {
+                    "XL": 2,
+                    "L": 6,
+                    "M": 4,
+                    "S": 9
+                }
+            }
+        ],
+        "price": 59.99,
+        "discountPrice": 54.99,
+        "ratting": 4.6,
+        "description": "Slim fit jeans with a modern cut. Designed for comfort and flexibility.",
+        "additionalInfo": "Stretchable fabric.",
+        "ProductInfo": "Available in black and blue denim with high-quality stitching and button closure."
+    },
+    {
+        "name": "Winter Puffer Coat",
+        "image":[
+            "https://i.ibb.co.com/6FSpTzv/Winter-Puffer-Coat1.jpg",
+            "https://i.ibb.co.com/fv9x5Jw/Winter-Puffer-Coat2.jpg",
+            "https://i.ibb.co.com/TtQM8Tn/Winter-Puffer-Coat3.jpg",
+            "https://i.ibb.co.com/MSVqQTG/Winter-Puffer-Coat4.jpg"
+        ],
+        "brand": "WinterCozy",
+        "category": ["Coat", "Jacket", "Clothing"],
+        "stock": [
+            {
+                "grey": {
+                    "XL": 5,
+                    "L": 4,
+                    "M": 6,
+                    "S": 7
+                },
+                "white": {
+                    "XL": 3,
+                    "L": 5,
+                    "M": 4,
+                    "S": 8
+                }
+            }
+        ],
+        "price": 129.99,
+        "discountPrice": 119.99,
+        "ratting": 4.9,
+        "description": "A warm and durable puffer coat for winter. Lightweight design with maximum insulation.",
+        "additionalInfo": "Waterproof outer layer.",
+        "ProductInfo": "Comes in grey and black, with a quilted design and adjustable hood."
+    },
+    {
+        "name": "Printed Summer Dress",
+        "image":[
+            "https://i.ibb.co.com/gd3GZ61/Printed-Summer-Dress1.jpg",
+            "https://i.ibb.co.com/LPZWqWj/Printed-Summer-Dress2.jpg",
+            "https://i.ibb.co.com/S7dmrLZ/Printed-Summer-Dress3.jpg",
+            "https://i.ibb.co.com/nfGzLjQ/Printed-Summer-Dress4.jpg"
+        ],
+        "brand": "FloralWear",
+        "category": ["Dress", "Clothing"],
+        "stock": [
+            {
+                "yellow": {
+                    "XL": 4,
+                    "L": 6,
+                    "M": 7,
+                    "S": 3
+                },
+                "pink": {
+                    "XL": 3,
+                    "L": 4,
+                    "M": 5,
+                    "S": 9
+                }
+            }
+        ],
+        "price": 49.99,
+        "discountPrice": 44.99,
+        "ratting": 4.1,
+        "description": "A light and breezy summer dress with floral prints. Ideal for casual outings.",
+        "additionalInfo": "Made from 100% cotton.",
+        "ProductInfo": "Available in vibrant pink and yellow with delicate floral prints."
+    },
+    {
+        "name": "Striped Polo Shirt",
+        "image":[
+            "https://i.ibb.co.com/8jFQ44R/Striped-Polo-Shirt1.jpg",
+            "https://i.ibb.co.com/qk828vg/Striped-Polo-Shirt2.jpg",
+            "https://i.ibb.co.com/PW2SyPK/Striped-Polo-Shirt3.jpg",
+            "https://i.ibb.co.com/rwXNKzd/Striped-Polo-Shirt4.jpg"
+        ],
+        "brand": "PoloMaster",
+        "category": ["Shirt", "Top", "Clothing"],
+        "stock": [
+            {
+                "red": {
+                    "XL": 6,
+                    "L": 5,
+                    "M": 7,
+                    "S": 4
+                },
+                "blue": {
+                    "XL": 4,
+                    "L": 5,
+                    "M": 6,
+                    "S": 9
+                }
+            }
+        ],
+        "price": 34.99,
+        "discountPrice": 29.99,
+        "ratting": 4.5,
+        "description": "A classic striped polo shirt with a modern fit. Ideal for casual or semi-formal occasions.",
+        "additionalInfo": "Breathable fabric.",
+        "ProductInfo": "Available in red and blue stripes, with a collar and button closure."
+    },
+    {
+        "name": "Casual Sneakers",
+        "image":[
+            "https://i.ibb.co.com/H70wLTD/Casual-Sneakers1.jpg",
+            "https://i.ibb.co.com/b1s8TWZ/Casual-Sneakers2.jpg",
+            "https://i.ibb.co.com/4STY6Qw/Casual-Sneakers3.jpg",
+            "https://i.ibb.co.com/ZVgHMq7/Casual-Sneakers4.jpg"
+        ],
+        "brand": "SneakerPro",
+        "category": ["Accessories", "Sneakers"],
+        "stock": [
+            {
+                "white": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 9
+                },
+                "black": {
+                    "XL": 5,
+                    "L": 4,
+                    "M": 7,
+                    "S": 3
+                }
+            }
+        ],
+        "price": 89.99,
+        "discountPrice": 79.99,
+        "ratting": 4.7,
+        "description": "Casual sneakers for daily wear with a stylish design and comfortable fit.",
+        "additionalInfo": "Rubber sole.",
+        "ProductInfo": "Available in white and black, with cushioned insoles and slip-resistant soles."
+    },
+    {
+        "name": "Wool Blend Overcoat",
+        "image":[
+            "https://i.ibb.co.com/LkN66QD/Wool-Blend-Overcoat1.jpg",
+            "https://i.ibb.co.com/nLf6nCS/Wool-Blend-Overcoat2.jpg",
+            "https://i.ibb.co.com/47NtX64/Wool-Blend-Overcoat3.jpg",
+            "https://i.ibb.co.com/PcJ2bvF/Wool-Blend-Overcoat4.jpg"
+        ],
+        "brand": "CoatWear",
+        "category": ["Coat", "Top", "Clothing"],
+        "stock": [
+            {
+                "black": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 9
+                },
+                "grey": {
+                    "XL": 5,
+                    "L": 6,
+                    "M": 3,
+                    "S": 8
+                }
+            }
+        ],
+        "price": 199.99,
+        "discountPrice": 189.99,
+        "ratting": 4.6,
+        "description": "A sophisticated wool blend overcoat for cold weather. Stylish and warm.",
+        "additionalInfo": "Dry clean only.",
+        "ProductInfo": "Made from a wool blend fabric in black and grey, with deep pockets and a buttoned front."
+    },
+    {
+        "name": "Athletic Joggers",
+        "image":[
+            "https://i.ibb.co.com/Ld4wDDf/Athletic-Joggers1.jpg",
+            "https://i.ibb.co.com/sjkDT42/Athletic-Joggers2.jpg",
+            "https://i.ibb.co.com/8YvgtVj/Athletic-Joggers3.jpg",
+            "https://i.ibb.co.com/hM5wZK6/Athletic-Joggers4.jpg"
+        ],
+        "brand": "FitWear",
+        "category": ["Bottom", "Clothing"],
+        "stock": [
+            {
+                "grey": {
+                    "XL": 7,
+                    "L": 6,
+                    "M": 5,
+                    "S": 8
+                },
+                "black": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 9
+                }
+            }
+        ],
+        "price": 49.99,
+        "discountPrice": 44.99,
+        "ratting": 4.4,
+        "description": "Comfortable joggers made for athletic wear. Features a tapered leg and drawstring waist.",
+        "additionalInfo": "Moisture-wicking fabric.",
+        "ProductInfo": "Available in black and grey, with zippered pockets and an elastic waistband."
+    },
+    {
+        "name": "Graphic Tee",
+        "image":[
+            "https://i.ibb.co.com/ZSygNZM/Graphic-Tee.jpg",
+            "https://i.ibb.co.com/J7DM5tm/Graphic-Tee2.jpg",
+            "https://i.ibb.co.com/QrfxhWs/Graphic-Tee3.jpg",
+            "https://i.ibb.co.com/HhwF7tK/Graphic-Tee4.jpg"
+        ],
+        "brand": "TeeTime",
+        "category": ["T-shirt", "Top", "Clothing"],
+        "stock": [
+            {
+                "white": {
+                    "XL": 7,
+                    "L": 6,
+                    "M": 5,
+                    "S": 8
+                },
+                "blue": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 9
+                }
+            }
+        ],
+        "price": 29.99,
+        "discountPrice": 24.99,
+        "ratting": 4.3,
+        "description": "Trendy graphic tee with bold prints. Perfect for casual wear or street style.",
+        "additionalInfo": "100% cotton.",
+        "ProductInfo": "Available in white and blue, with durable prints and soft fabric."
+    },
+    {
+        "name": "Sports Tracksuit",
+        "image":[
+            "https://i.ibb.co.com/hBnpgYw/Sports-Tracksuit1.jpg",
+            "https://i.ibb.co.com/qYHf9Sg/Sports-Tracksuit2.jpg",
+            "https://i.ibb.co.com/sgjx7Yh/Sports-Tracksuit3.jpg",
+            "https://i.ibb.co.com/nRRX0vg/Sports-Tracksuit4.jpg"
+        ],
+        "brand": "ActiveGear",
+        "category": ["Bottom", "Top", "Clothing"],
+        "stock": [
+            {
+                "blue": {
+                    "XL": 5,
+                    "L": 4,
+                    "M": 7,
+                    "S": 6
+                },
+                "grey": {
+                    "XL": 3,
+                    "L": 6,
+                    "M": 4,
+                    "S": 9
+                }
+            }
+        ],
+        "price": 99.99,
+        "discountPrice": 89.99,
+        "ratting": 4.8,
+        "description": "A complete tracksuit made from breathable fabric. Ideal for workouts or casual wear.",
+        "additionalInfo": "Machine washable.",
+        "ProductInfo": "Available in blue and grey, with moisture-wicking properties and a slim fit."
+    },
+    {
+        "name": "Elegant Blazer",
+        "image":[
+            "https://i.ibb.co.com/wsTbH1J/Elegant-Blazer1.jpg",
+            "https://i.ibb.co.com/tBFDD2w/Elegant-Blazer2.jpg",
+            "https://i.ibb.co.com/MByrJ1X/Elegant-Blazer3.jpg",
+            "https://i.ibb.co.com/s2SxBxv/Elegant-Blazer4.jpg"
+        ],
+        "brand": "BlazerCraft",
+        "category": ["Coat", "Top", "Clothing"],
+        "stock": [
+            {
+                "navy": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 9
+                },
+                "black": {
+                    "XL": 5,
+                    "L": 4,
+                    "M": 7,
+                    "S": 3
+                }
+            }
+        ],
+        "price": 149.99,
+        "discountPrice": 139.99,
+        "ratting": 4.7,
+        "description": "A sophisticated blazer for formal and semi-formal occasions. Tailored fit and classic design.",
+        "additionalInfo": "Dry clean only.",
+        "ProductInfo": "Available in navy and black, with structured shoulders and premium fabric."
+    },
+    {
+        "name": "Casual Shorts",
+        "image":[
+            "https://i.ibb.co.com/V3vQQjY/Casual-Shorts1.jpg",
+            "https://i.ibb.co.com/bgFcv3Z/Casual-Shorts2.jpg",
+            "https://i.ibb.co.com/vJ2jh7Z/Casual-Shorts3.jpg",
+            "https://i.ibb.co.com/q1gxHWp/Casual-Shorts4.jpg"
+        ],
+        "brand": "ShortStyle",
+        "category": ["Bottom", "Clothing"],
+        "stock": [
+            {
+                "khaki": {
+                    "XL": 7,
+                    "L": 5,
+                    "M": 6,
+                    "S": 8
+                },
+                "blue": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 5,
+                    "S": 9
+                }
+            }
+        ],
+        "price": 39.99,
+        "discountPrice": 34.99,
+        "ratting": 4.5,
+        "description": "Comfortable casual shorts made from lightweight fabric. Perfect for summer.",
+        "additionalInfo": "Machine washable.",
+        "ProductInfo": "Available in khaki and blue, with a relaxed fit and adjustable waistband."
+    },
+    {
+        "name": "Formal Dress Shirt",
+        "image":[
+            "https://i.ibb.co.com/T2wyBqC/Formal-Dress-Shirt1.jpg",
+            "https://i.ibb.co.com/nm5Hyvr/Formal-Dress-Shirt2.jpg",
+            "https://i.ibb.co.com/khnjm6G/Formal-Dress-Shirt3.jpg",
+            "https://i.ibb.co.com/bNDFV80/Formal-Dress-Shirt4.jpg"
+        ],
+        "brand": "ShirtWorks",
+        "category": ["Shirt", "Top", "Clothing"],
+        "stock": [
+            {
+                "white": {
+                    "XL": 4,
+                    "L": 6,
+                    "M": 7,
+                    "S": 3
+                },
+                "blue": {
+                    "XL": 5,
+                    "L": 3,
+                    "M": 6,
+                    "S": 8
+                }
+            }
+        ],
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "ratting": 4.6,
+        "description": "A formal dress shirt with a slim fit. Ideal for office wear or formal events.",
+        "additionalInfo": "Non-iron fabric.",
+        "ProductInfo": "Available in white and blue, with a crisp collar and button closure."
+    },
+    {
+        "name": "Workout Leggings",
+        "image":[
+            "_____________",
+            "_____________",
+            "_____________",
+            "_____________"
+        ],
+        "brand": "FitFashion",
+        "category": ["Bottom", "Clothing"],
+        "stock": [
+            {
+                "black": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 9
+                },
+                "grey": {
+                    "XL": 5,
+                    "L": 6,
+                    "M": 4,
+                    "S": 8
+                }
+            }
+        ],
+        "price": 39.99,
+        "discountPrice": 34.99,
+        "ratting": 4.4,
+        "description": "High-waisted workout leggings made for flexibility and comfort. Perfect for yoga or gym.",
+        "additionalInfo": "Moisture-wicking fabric.",
+        "ProductInfo": "Available in black and grey, with a snug fit and reinforced stitching."
+    },
+    {
+        "name": "Oversized Hoodie",
+        "image":[
+            "https://i.ibb.co.com/0rQ64Dr/Oversized-Hoodie1.jpg",
+            "https://i.ibb.co.com/Q96tM9X/Oversized-Hoodie2.jpg",
+            "https://i.ibb.co.com/zhKfL2Z/Oversized-Hoodie3.jpg",
+            "https://i.ibb.co.com/L0Q8C1c/Oversized-Hoodie4.jpg"
+        ],
+        "brand": "ComfyHood",
+        "category": ["Hoodies", "Top", "Clothing"],
+        "stock": [
+            {
+                "black": {
+                    "XL": 7,
+                    "L": 6,
+                    "M": 5,
+                    "S": 8
+                },
+                "blue": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 9
+                }
+            }
+        ],
+        "price": 79.99,
+        "discountPrice": 69.99,
+        "ratting": 4.5,
+        "description": "Oversized hoodie made from soft fleece fabric for ultimate comfort. Ideal for lounging.",
+        "additionalInfo": "Machine washable.",
+        "ProductInfo": "Available in black and blue, with a relaxed fit and kangaroo pocket."
+    },
+    {
+        "name": "Leather Belt",
+        "image":[
+            "https://i.ibb.co.com/Q9vDZRL/Leather-Belt1.jpg",
+            "https://i.ibb.co.com/98jwgsD/Leather-Belt2.jpg",
+            "https://i.ibb.co.com/KV82BtJ/Leather-Belt3.jpg",
+            "https://i.ibb.co.com/hYZ6hDZ/Leather-Belt4.jpg"
+        ],
+        "brand": "BeltCraft",
+        "category": ["Accessories", "Clothing"],
+        "stock": [
+            {
+                "brown": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 9
+                },
+                "black": {
+                    "XL": 5,
+                    "L": 6,
+                    "M": 3,
+                    "S": 8
+                }
+            }
+        ],
+        "price": 49.99,
+        "discountPrice": 39.99,
+        "ratting": 4.8,
+        "description": "Classic leather belt with a metal buckle. Suitable for formal or casual wear.",
+        "additionalInfo": "Genuine leather.",
+        "ProductInfo": "Available in black and brown, with adjustable holes for a custom fit."
+    },
+    {
+        "name": "Printed Graphic Hoodie",
+        "image":[
+            "https://i.ibb.co.com/YZ92c54/Printed-Graphic-Hoodie1.jpg",
+            "https://i.ibb.co.com/wz4bm47/Printed-Graphic-Hoodie2.jpg",
+            "https://i.ibb.co.com/svpyBFC/Printed-Graphic-Hoodie3.jpg",
+            "https://i.ibb.co.com/3yFM5Zj/Printed-Graphic-Hoodie4.jpg"
+        ],
+        "brand": "StreetWear",
+        "category": ["Hoodies", "Top", "Clothing"],
+        "stock": [
+            {
+                "black": {
+                    "XL": 4,
+                    "L": 3,
+                    "M": 6,
+                    "S": 9
+                },
+                "grey": {
+                    "XL": 5,
+                    "L": 6,
+                    "M": 3,
+                    "S": 8
+                }
+            }
+        ],
+        "price": 89.99,
+        "discountPrice": 79.99,
+        "ratting": 4.7,
+        "description": "Trendy graphic hoodie made for street style. Features bold prints and a relaxed fit.",
+        "additionalInfo": "Machine washable.",
+        "ProductInfo": "Available in black and grey, with durable prints and soft fabric."
+    }
+]
+
