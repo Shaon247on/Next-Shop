@@ -1,4 +1,4 @@
-import { Cinzel_Decorative,Open_Sans } from "next/font/google";
+import { Cinzel_Decorative, Open_Sans } from "next/font/google";
 import localFont from 'next/font/local';
 import "./globals.css";
 import MyContext from "@/src/Provider/MyContext";
@@ -7,11 +7,11 @@ import NavBar from "./Shared/NavBar";
 
 
 
-const bristol = localFont({src:"../../public/font/Bristol maver.otf", weight:'400 700', variable:"--font-bristol"});
+const bristol = localFont({ src: "../../public/font/Bristol maver.otf", weight: '400 700', variable: "--font-bristol" });
 
-const open = Open_Sans({ subsets: ["latin"], weight:["300", "400", "500", "600", "700", "800"], variable:"--font-open" });
+const open = Open_Sans({ subsets: ["latin"], weight: ["300", "400", "500", "600", "700", "800"], variable: "--font-open" });
 
-const cinzel = Cinzel_Decorative({ subsets: ["latin"], weight:['400','700',"900"], variable:"--font-cinzel" });
+const cinzel = Cinzel_Decorative({ subsets: ["latin"], weight: ['400', '700', "900"], variable: "--font-cinzel" });
 
 export const metadata = {
   title: "Create Next App",
@@ -22,16 +22,19 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-      {/* <link rel="icon" type="image/svg+xml" href="./src/assets/Creative.jpg" /> */}
-      <title>Urban Chic</title>
+        {/* <link rel="icon" type="image/svg+xml" href="./src/assets/Creative.jpg" /> */}
+        <title>Urban Chic</title>
       </head>
-      <body className={`${bristol.variable} ${open.variable} ${open.className} ${cinzel.variable}`}>
+      <body className={`${bristol.variable} ${open.variable} ${open.className} ${cinzel.variable} `}>
+
+
         <MyContext>
-          {/* <AuthProvider> */}        
-          <NavBar/>   
+          {/* <AuthProvider> */}
+          <NavBar />       
             {children}
           {/* </AuthProvider> */}
         </MyContext>
+
       </body>
     </html>
   );

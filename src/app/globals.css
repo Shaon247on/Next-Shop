@@ -2,12 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
-.nav_bar{
-    width: 100%;       
+
+.nav_bar {
+    width: 100%;
     background-color: rgba(255, 243, 243, 0.055);
     position: fixed;
-    left: 0%;    
+    left: 0%;
     transform: translateX(-50%);
-    top: 0;    
-    backdrop-filter: blur(15px);      
+    top: 0;
+    backdrop-filter: blur(15px);
+    z-index: 50;
+}
+
+* {
+    scrollbar-width: thin !important;
+    scrollbar-color: #c4a99b #ede7e1 !important;   
 }
