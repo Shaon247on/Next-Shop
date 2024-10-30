@@ -9,7 +9,7 @@ const NavBar = () => {
     return (
         <>
             <>
-                <div className="grid grid-cols-2 lg:grid-cols-10 xl:grid-cols-12 justify-between items-center z-[5] w-full h-[5rem] lg:h-[6.25rem]">
+                <div className="bg-light grid grid-cols-2 lg:grid-cols-10 xl:grid-cols-12 justify-between items-center z-[5] w-full h-[5rem] lg:h-[6.25rem]">
 
                     <div className='lg:col-span-2'>
                         <Logo />

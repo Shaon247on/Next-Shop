@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
+        "banner": "url('/gif/Banner.gif')",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
@@ -16,6 +16,11 @@ module.exports = {
         cinzel:["var(--font-cinzel)"],
         open:["var(--font-open)"],
         bristol:["var(--font-bristol)"]
+      },
+      colors:{
+        deep:"#4b281e",
+        light:"#c4a99b",
+        lighter:"#ede7e1"
       }
     },
   },

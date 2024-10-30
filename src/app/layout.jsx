@@ -21,6 +21,10 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+      {/* <link rel="icon" type="image/svg+xml" href="./src/assets/Creative.jpg" /> */}
+      <title>Urban Chic</title>
+      </head>
       <body className={`${bristol.variable} ${open.variable} ${open.className} ${cinzel.variable}`}>
         <MyContext>
           {/* <AuthProvider> */}        

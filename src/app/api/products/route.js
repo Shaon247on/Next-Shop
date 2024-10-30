@@ -19,13 +19,25 @@ export async function GET() {
 
 export async function POST(req) {
     await connectDB()
-    const payload = await req.json()
-    let product = new Product(payload)
-    
+
     try {
-        const result = await product.save()  
-        return NextResponse.json({result, success: true})
+        const { id, newPrice } = req.body
+        await Product.updateOne({ _id: new ObjectId(id) }, { $set: { price: newPrice } })
+        return NextResponse.json({ success: true, newPrice } )
     } catch (error) {
-        return NextResponse.json({success: false})
+        console.log("DataBase Error:",error);
+        return NextResponse.json({success: false, message: "Database Error"}, {status: 500})
     }
+
+
+
+    // const payload = await req.json()
+    // let product = new Product(payload)
+
+    // try {
+    //     const result = await product.save()  
+    //     return NextResponse.json({result, success: true})
+    // } catch (error) {
+    //     return NextResponse.json({success: false})
+    // }
 }
